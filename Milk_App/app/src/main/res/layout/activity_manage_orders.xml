@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/dashboard_bg"
+    android:padding="16dp">
+
+    <!-- Title -->
+
+    <!-- Upcoming Orders List -->
+
+    <!-- Add Order Button -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="30dp"
+        android:text="Manage Your Milk Orders"
+        android:textColor="#333"
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/fabAddOrder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add New Order"
+        android:backgroundTint="#B0E0E6"
+        android:textColor="#004D40"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Upcoming Orders"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#800080"
+        android:layout_marginBottom="16dp"/>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvUpcomingOrders"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clipToPadding="false"
+        android:paddingBottom="80dp" />
+
+
+</LinearLayout>

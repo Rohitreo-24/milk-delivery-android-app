@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Milk App</string>
+
+
+    <string-array name="user_roles">
+        <item>Customer</item>
+        <item>Milkman</item>
+    </string-array>
+
+    <string name="app_logo">App Logo</string>
+    <string name="role_customer">Customer</string>
+    <string name="role_supplier">Supplier</string>
+
+
+    <string name="desc_customer_role">Customer Role</string>
+
+    <string name="desc_supplier_role">Supplier Role</string>
+
+    <string name="desc_admin_role">Admin Role</string>
+
+    <string name="desc_authority_role">Authority Role</string>
+    <string name="product">Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="unit">Unit</string>
+    <string name="minus">-</string>
+    <string name="_1">1</string>
+    <string name="plus">+</string>
+    <string name="milk">Milk</string>
+    <string name="l">L</string>
+    <string name="kg">Kg</string>
+    <string name="go_to_cart">Go to Cart</string>
+    <string name="menu">Menu</string>
+    <string name="customer_dashboard">Customer Dashboard</string>
+    <string name="products">Products</string>
+    <string name="preferences">Preferences</string>
+    <string name="set_preferences">Set Preferences</string>
+    <string name="payment">Payment</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="give_feedback">Give Feedback</string>
+
+    <string-array name="roles_array">
+        <item>Customer</item>
+        <item>Milkman</item>
+    </string-array>
+
+
+</resources>
+

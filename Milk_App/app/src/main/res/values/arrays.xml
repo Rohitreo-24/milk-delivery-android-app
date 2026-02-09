@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="complaint_issues">
+        <item>Select an issue...</item>
+        <item>Product Quality</item>
+        <item>Delivery Issue</item>
+        <item>Billing Problem</item>
+        <item>Subscription Management</item>
+        <item>Other Feedback</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32570847194",
+    "project_id": "milkapp-e954e",
+    "storage_bucket": "milkapp-e954e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32570847194:android:aac891310f1385f7ca1ae3",
+        "android_client_info": {
+          "package_name": "com.example.milk_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdTvtl8ZRfaQ2Lmhoezv1A3Pod8sFX6e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
