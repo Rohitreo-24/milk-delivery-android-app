@@ -60,115 +60,64 @@ The app supports both supplier and customer modules with Firebase backend integr
 
 ---
 
+## 📸 Screenshots
 
+### 🔐 Authentication
 
-\## 📸 Screenshots
+**Login Page**  
+![Login](screenshots/LoginPage.jpeg)
 
-
-
-\### 🔐 Authentication
-
-\*\*Login Page\*\*  
-
-!\[Login](screenshots/LoginPage.jpeg)
-
-
-
-\*\*Signup Page\*\*  
-
-!\[Signup](screenshots/SignupPage.jpeg)
-
-
+**Signup Page**  
+![Signup](screenshots/SignupPage.jpeg)
 
 ---
 
+### 👤 Customer Module
 
+**Customer Dashboard**  
+![Customer Dashboard](screenshots/CustomerDashboard.jpeg)
 
-\### 👤 Customer Module
+**Batch Selection**  
+![Batch Selection](screenshots/BatchSelection.jpeg)
 
-\*\*Customer Dashboard\*\*  
+**Milk Ordering**  
+![Milk Ordering](screenshots/BatchMilkOrdering.jpeg)
 
-!\[Customer Dashboard](screenshots/CustomerDashboard.jpeg)
+**Delivery List**  
+![Delivery List](screenshots/DeliveryList.jpeg)
 
+**Monthly Bill**  
+![Monthly Bill](screenshots/MonthlyBill.jpeg)
 
-
-\*\*Batch Selection\*\*  
-
-!\[Batch Selection](screenshots/BatchSelection.jpeg)
-
-
-
-\*\*Milk Ordering\*\*  
-
-!\[Milk Ordering](screenshots/BatchMilkOrdering.jpeg)
-
-
-
-\*\*Delivery List\*\*  
-
-!\[Delivery List](screenshots/DeliveryList.jpeg)
-
-
-
-\*\*Monthly Bill\*\*  
-
-!\[Monthly Bill](screenshots/MonthlyBill.jpeg)
-
-
-
-\*\*Profile Page\*\*  
-
-!\[Profile](screenshots/Profile.jpeg)
-
-
+**Profile Page**  
+![Profile](screenshots/Profile.jpeg)
 
 ---
 
+### 🚚 Delivery Tracking
 
-
-\### 🚚 Delivery Tracking
-
-\*\*Google Maps Route Interface\*\*  
-
-!\[Google Maps](screenshots/GoogleMapInterface.jpeg)
-
-
+**Google Maps Route Interface**  
+![Google Maps](screenshots/GoogleMapInterface.jpeg)
 
 ---
 
+### 🧑‍💼 Supplier Module
 
+**Supplier Dashboard**  
+![Supplier Dashboard](screenshots/SupplierDashBoard.jpeg)
 
-\### 🧑‍💼 Supplier Module
-
-\*\*Supplier Dashboard\*\*  
-
-!\[Supplier Dashboard](screenshots/SupplierDashBoard.jpeg)
-
-
-
-\*\*Supplier Analytics\*\*  
-
-!\[Analytics](screenshots/AnalyticsOfSupplier.jpeg)
-
-
+**Supplier Analytics**  
+![Analytics](screenshots/AnalyticsOfSupplier.jpeg)
 
 ---
 
+### 💬 Feedback System
 
+**Give Feedback**  
+![Give Feedback](screenshots/FillFeedback.jpeg)
 
-\### 💬 Feedback System
-
-\*\*Give Feedback\*\*  
-
-!\[Give Feedback](screenshots/FillFeedback.jpeg)
-
-
-
-\*\*Received Feedback\*\*  
-
-!\[Received Feedback](screenshots/ReceivedFeedback.jpeg)
-
-
+**Received Feedback**  
+![Received Feedback](screenshots/ReceivedFeedback.jpeg)
 
 ---
 
